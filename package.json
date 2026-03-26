@@ -1,0 +1,8 @@
+{
+  "name": "genz-bank",
+  "version": "1.0.0",
+  "description": "GENZ Bank with KIMI AI Chatbot",
+  "engines": {
+    "node": "18.x"
+  }
+}
